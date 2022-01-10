@@ -1,0 +1,798 @@
+fileFormatVersion: 2
+guid: 024ceb469c8ba1847ae93af73c831b48
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 7175105246555756338
+    second: Body|CameraAction
+  - first:
+      74: -1595361852922168518
+    second: Body|Cube.004Action
+  - first:
+      74: 4432321279940885466
+    second: Body|Cube.005Action
+  - first:
+      74: 9149986372668426135
+    second: Body|RockAction
+  - first:
+      74: 5854777268059359017
+    second: Body|RockAction.002
+  - first:
+      74: -1155999896725897652
+    second: Body|Smoke DomainAction.004
+  - first:
+      74: 257896130064835496
+    second: Body|Sphere.011Action
+  - first:
+      74: -7641948793411738473
+    second: Body|wallAction
+  - first:
+      74: -1595780942315741955
+    second: button 1|CameraAction
+  - first:
+      74: -6405626153749890148
+    second: button 1|Cube.004Action
+  - first:
+      74: 1379830630659462768
+    second: button 1|Cube.005Action
+  - first:
+      74: -1296789515116233877
+    second: button 1|RockAction
+  - first:
+      74: 6931403894731243527
+    second: button 1|RockAction.002
+  - first:
+      74: -2021881999973557908
+    second: button 1|Smoke DomainAction.004
+  - first:
+      74: -3391585693045253253
+    second: button 1|Sphere.011Action
+  - first:
+      74: 7031502972216190771
+    second: button 1|wallAction
+  - first:
+      74: -4946582773611339042
+    second: button 3|CameraAction
+  - first:
+      74: 2182878758940552704
+    second: button 3|Cube.004Action
+  - first:
+      74: 2474294575875393885
+    second: button 3|Cube.005Action
+  - first:
+      74: 2553146338636036773
+    second: button 3|RockAction
+  - first:
+      74: -2503358680549368179
+    second: button 3|RockAction.002
+  - first:
+      74: -9207308787206779847
+    second: button 3|Smoke DomainAction.004
+  - first:
+      74: 3177718788491751679
+    second: button 3|Sphere.011Action
+  - first:
+      74: -6162590202781217640
+    second: button 3|wallAction
+  - first:
+      74: -662146422177263119
+    second: button 4|CameraAction
+  - first:
+      74: -7631025611220245576
+    second: button 4|Cube.004Action
+  - first:
+      74: 4944528081289130636
+    second: button 4|Cube.005Action
+  - first:
+      74: -2520081621981413061
+    second: button 4|RockAction
+  - first:
+      74: -6640809143377009037
+    second: button 4|RockAction.002
+  - first:
+      74: -4419438641322828564
+    second: button 4|Smoke DomainAction.004
+  - first:
+      74: 3542143379873597732
+    second: button 4|Sphere.011Action
+  - first:
+      74: -7596873480589337112
+    second: button 4|wallAction
+  - first:
+      74: 5788884133992583869
+    second: Hat brim|CameraAction
+  - first:
+      74: -5887157552383166056
+    second: Hat brim|Cube.004Action
+  - first:
+      74: -2942734977871514830
+    second: Hat brim|Cube.005Action
+  - first:
+      74: 7089518996956818143
+    second: Hat brim|RockAction
+  - first:
+      74: -7212415797613242329
+    second: Hat brim|RockAction.002
+  - first:
+      74: 2626896001957505683
+    second: Hat brim|Smoke DomainAction.004
+  - first:
+      74: 7444450251620810033
+    second: Hat brim|Sphere.011Action
+  - first:
+      74: -924269123338700379
+    second: Hat brim|wallAction
+  - first:
+      74: 723149214836160331
+    second: hat|CameraAction
+  - first:
+      74: 2316508135868423164
+    second: hat|Cube.004Action
+  - first:
+      74: -7105071867582534245
+    second: hat|Cube.005Action
+  - first:
+      74: -607935678106995097
+    second: hat|RockAction
+  - first:
+      74: -2236433891763941800
+    second: hat|RockAction.002
+  - first:
+      74: 7140772098848588576
+    second: hat|Smoke DomainAction.004
+  - first:
+      74: -6881617286598383070
+    second: hat|Sphere.011Action
+  - first:
+      74: 3059989952616822608
+    second: hat|wallAction
+  - first:
+      74: -6256770227974963447
+    second: Head|CameraAction
+  - first:
+      74: 1259145942523595536
+    second: Head|Cube.004Action
+  - first:
+      74: 5794645973924807956
+    second: Head|Cube.005Action
+  - first:
+      74: 5013627536975839844
+    second: Head|RockAction
+  - first:
+      74: -4760334591639554203
+    second: Head|RockAction.002
+  - first:
+      74: 3307636382022514038
+    second: Head|Smoke DomainAction.004
+  - first:
+      74: -3614449839938680644
+    second: Head|Sphere.011Action
+  - first:
+      74: -1725287729920756933
+    second: Head|wallAction
+  - first:
+      74: 8735751047284948784
+    second: left eye|CameraAction
+  - first:
+      74: 3231023609949687061
+    second: left eye|Cube.004Action
+  - first:
+      74: -1411654205260624183
+    second: left eye|Cube.005Action
+  - first:
+      74: 2605679231038068738
+    second: left eye|RockAction
+  - first:
+      74: -1542931139690128717
+    second: left eye|RockAction.002
+  - first:
+      74: 5563644147002004250
+    second: left eye|Smoke DomainAction.004
+  - first:
+      74: 2706941122122543811
+    second: left eye|Sphere.011Action
+  - first:
+      74: 5022392856886176752
+    second: left eye|wallAction
+  - first:
+      74: 7293891600052331619
+    second: nose|CameraAction
+  - first:
+      74: -2394705162836637809
+    second: nose|Cube.004Action
+  - first:
+      74: 368085493919055673
+    second: nose|Cube.005Action
+  - first:
+      74: 4764094832790490206
+    second: nose|RockAction
+  - first:
+      74: 8845681860699710295
+    second: nose|RockAction.002
+  - first:
+      74: 4526682317034104674
+    second: nose|Smoke DomainAction.004
+  - first:
+      74: 4014923411975176531
+    second: nose|Sphere.011Action
+  - first:
+      74: -7728769542074304534
+    second: nose|wallAction
+  - first:
+      74: 3374175066967454267
+    second: right eye|CameraAction
+  - first:
+      74: 478177741421153324
+    second: right eye|Cube.004Action
+  - first:
+      74: 8068742992783258307
+    second: right eye|Cube.005Action
+  - first:
+      74: 6289252517459658291
+    second: right eye|RockAction
+  - first:
+      74: -495449179383847611
+    second: right eye|RockAction.002
+  - first:
+      74: 3865237651685007839
+    second: right eye|Smoke DomainAction.004
+  - first:
+      74: -2030155140882859463
+    second: right eye|Sphere.011Action
+  - first:
+      74: 940455769013098418
+    second: right eye|wallAction
+  - first:
+      74: -176190988566008874
+    second: Scarf|CameraAction
+  - first:
+      74: -6359612038180479531
+    second: Scarf|Cube.004Action
+  - first:
+      74: 7286983380939631230
+    second: Scarf|Cube.005Action
+  - first:
+      74: 1309953165999390891
+    second: Scarf|RockAction
+  - first:
+      74: -6983554781685848281
+    second: Scarf|RockAction.002
+  - first:
+      74: -4498934732537715318
+    second: Scarf|Smoke DomainAction.004
+  - first:
+      74: 944113269870645755
+    second: Scarf|Sphere.011Action
+  - first:
+      74: -9011753995596951913
+    second: Scarf|wallAction
+  - first:
+      74: 1724194172525137256
+    second: Scarf 1|CameraAction
+  - first:
+      74: 4639636276199396524
+    second: Scarf 1|Cube.004Action
+  - first:
+      74: -4612193471407734242
+    second: Scarf 1|Cube.005Action
+  - first:
+      74: 2068080428839477101
+    second: Scarf 1|RockAction
+  - first:
+      74: -4120007084450054513
+    second: Scarf 1|RockAction.002
+  - first:
+      74: 1733676031136573885
+    second: Scarf 1|Smoke DomainAction.004
+  - first:
+      74: -6249105529862784202
+    second: Scarf 1|Sphere.011Action
+  - first:
+      74: 7119878678631855545
+    second: Scarf 1|wallAction
+  - first:
+      74: -658396165111236076
+    second: Scarf 2|CameraAction
+  - first:
+      74: 5164481082958954085
+    second: Scarf 2|Cube.004Action
+  - first:
+      74: -720143171167851084
+    second: Scarf 2|Cube.005Action
+  - first:
+      74: 3078955752846857731
+    second: Scarf 2|RockAction
+  - first:
+      74: 8424775760378260080
+    second: Scarf 2|RockAction.002
+  - first:
+      74: 4499230779242087296
+    second: Scarf 2|Smoke DomainAction.004
+  - first:
+      74: 7270735858765786374
+    second: Scarf 2|Sphere.011Action
+  - first:
+      74: 5975583101402914948
+    second: Scarf 2|wallAction
+  - first:
+      74: -7028759070552465013
+    second: Torus.003|CameraAction
+  - first:
+      74: 3392778744520918356
+    second: Torus.003|Cube.004Action
+  - first:
+      74: 8247442483567365445
+    second: Torus.003|Cube.005Action
+  - first:
+      74: -3719296742951787131
+    second: Torus.003|RockAction
+  - first:
+      74: -912484871380999722
+    second: Torus.003|RockAction.002
+  - first:
+      74: 7081466942051737147
+    second: Torus.003|Smoke DomainAction.004
+  - first:
+      74: 6757148346256696587
+    second: Torus.003|Sphere.011Action
+  - first:
+      74: -9216070702111076519
+    second: Torus.003|wallAction
+  - first:
+      74: -2797570769209874791
+    second: Cube.005|CameraAction
+  - first:
+      74: -8772235445958307840
+    second: Cube.005|Cube.004Action
+  - first:
+      74: 2108944049028585761
+    second: Cube.005|Cube.005Action
+  - first:
+      74: 5447649943555470383
+    second: Cube.005|RockAction
+  - first:
+      74: -7715147142323471931
+    second: Cube.005|RockAction.002
+  - first:
+      74: -5158177658057575394
+    second: Cube.005|Smoke DomainAction.004
+  - first:
+      74: 7777212839469276446
+    second: Cube.005|Sphere.011Action
+  - first:
+      74: -2246369857601973031
+    second: Cube.005|wallAction
+  - first:
+      74: 3941111494565984658
+    second: Cube.006|CameraAction
+  - first:
+      74: -288676131558943683
+    second: Cube.006|Cube.004Action
+  - first:
+      74: -7909863099968968139
+    second: Cube.006|Cube.005Action
+  - first:
+      74: 2422415593070196881
+    second: Cube.006|RockAction
+  - first:
+      74: -6235537016026930154
+    second: Cube.006|RockAction.002
+  - first:
+      74: -3509916271708744503
+    second: Cube.006|Smoke DomainAction.004
+  - first:
+      74: 7476238882325201640
+    second: Cube.006|Sphere.011Action
+  - first:
+      74: -5375123087035947712
+    second: Cube.006|wallAction
+  - first:
+      74: -5099453387467896861
+    second: Sphere.011|CameraAction
+  - first:
+      74: -8121887203863405995
+    second: Sphere.011|Cube.004Action
+  - first:
+      74: -5239470703639118201
+    second: Sphere.011|Cube.005Action
+  - first:
+      74: -5763808382086634760
+    second: Sphere.011|RockAction
+  - first:
+      74: -114891211395504555
+    second: Sphere.011|RockAction.002
+  - first:
+      74: 2674574381682676796
+    second: Sphere.011|Smoke DomainAction.004
+  - first:
+      74: 8424773780980107604
+    second: Sphere.011|Sphere.011Action
+  - first:
+      74: 7734645753186548622
+    second: Sphere.011|wallAction
+  - first:
+      74: -1489832937513433573
+    second: Cube.001|CameraAction
+  - first:
+      74: -8753955325409962159
+    second: Cube.001|Cube.004Action
+  - first:
+      74: -2493469826189662253
+    second: Cube.001|Cube.005Action
+  - first:
+      74: -7594343041347189813
+    second: Cube.001|RockAction
+  - first:
+      74: -487440547775347850
+    second: Cube.001|RockAction.002
+  - first:
+      74: -4404764161095592016
+    second: Cube.001|Smoke DomainAction.004
+  - first:
+      74: 6716559479413230886
+    second: Cube.001|Sphere.011Action
+  - first:
+      74: 4171961392653801062
+    second: Cube.001|wallAction
+  - first:
+      74: -2464318301851289549
+    second: Cube.004|CameraAction
+  - first:
+      74: -5755876124362903034
+    second: Cube.004|Cube.004Action
+  - first:
+      74: -7712969636887564349
+    second: Cube.004|Cube.005Action
+  - first:
+      74: -7580724819279166370
+    second: Cube.004|RockAction
+  - first:
+      74: 2946785172542614935
+    second: Cube.004|RockAction.002
+  - first:
+      74: 639280702782082454
+    second: Cube.004|Smoke DomainAction.004
+  - first:
+      74: 7875159940680862596
+    second: Cube.004|Sphere.011Action
+  - first:
+      74: -7052516923418276606
+    second: Cube.004|wallAction
+  - first:
+      74: 42129721499088340
+    second: Smoke Domain|CameraAction
+  - first:
+      74: -5717138696900040719
+    second: Smoke Domain|Cube.004Action
+  - first:
+      74: -8664957147216193013
+    second: Smoke Domain|Cube.005Action
+  - first:
+      74: 3022877111073384914
+    second: Smoke Domain|RockAction
+  - first:
+      74: 6988678271429397130
+    second: Smoke Domain|RockAction.002
+  - first:
+      74: 6476485614870968114
+    second: Smoke Domain|Smoke DomainAction.004
+  - first:
+      74: 7579014502467073266
+    second: Smoke Domain|Sphere.011Action
+  - first:
+      74: -4621048650234793949
+    second: Smoke Domain|wallAction
+  - first:
+      74: -3299178882980226264
+    second: Cylinder|CameraAction
+  - first:
+      74: 5864986325590357177
+    second: Cylinder|Cube.004Action
+  - first:
+      74: -6048154412164539737
+    second: Cylinder|Cube.005Action
+  - first:
+      74: 6713121812709239620
+    second: Cylinder|RockAction
+  - first:
+      74: 4978614853061361503
+    second: Cylinder|RockAction.002
+  - first:
+      74: -328532541218571282
+    second: Cylinder|Smoke DomainAction.004
+  - first:
+      74: -4181253130568197515
+    second: Cylinder|Sphere.011Action
+  - first:
+      74: 5385951050582294347
+    second: Cylinder|wallAction
+  - first:
+      74: 5004777915791413574
+    second: Cylinder.001|CameraAction
+  - first:
+      74: -5284819228624013448
+    second: Cylinder.001|Cube.004Action
+  - first:
+      74: -6942770206251818064
+    second: Cylinder.001|Cube.005Action
+  - first:
+      74: 5980396923200091275
+    second: Cylinder.001|RockAction
+  - first:
+      74: 7302631915336940078
+    second: Cylinder.001|RockAction.002
+  - first:
+      74: 2051140000264654256
+    second: Cylinder.001|Smoke DomainAction.004
+  - first:
+      74: 8684422873579841057
+    second: Cylinder.001|Sphere.011Action
+  - first:
+      74: 2014921543033195897
+    second: Cylinder.001|wallAction
+  - first:
+      74: 2667682431568537100
+    second: Rock|CameraAction
+  - first:
+      74: 5859386741157277096
+    second: Rock|Cube.004Action
+  - first:
+      74: 7145299403483028841
+    second: Rock|Cube.005Action
+  - first:
+      74: -467663461231686841
+    second: Rock|RockAction
+  - first:
+      74: 172492520535935364
+    second: Rock|RockAction.002
+  - first:
+      74: -9002103735750386734
+    second: Rock|Smoke DomainAction.004
+  - first:
+      74: 8709197124840995253
+    second: Rock|Sphere.011Action
+  - first:
+      74: -7673306459771453327
+    second: Rock|wallAction
+  - first:
+      74: 2543883248680737893
+    second: Rock.001|CameraAction
+  - first:
+      74: -1835058532991363052
+    second: Rock.001|Cube.004Action
+  - first:
+      74: 401913083054685430
+    second: Rock.001|Cube.005Action
+  - first:
+      74: 7460632563072290040
+    second: Rock.001|RockAction
+  - first:
+      74: -3763084360061668485
+    second: Rock.001|RockAction.002
+  - first:
+      74: -3786167847292387071
+    second: Rock.001|Smoke DomainAction.004
+  - first:
+      74: -9089963547715517679
+    second: Rock.001|Sphere.011Action
+  - first:
+      74: -5453430128373028917
+    second: Rock.001|wallAction
+  - first:
+      74: -8987713535925894916
+    second: Rock.002|CameraAction
+  - first:
+      74: 671632493554511589
+    second: Rock.002|Cube.004Action
+  - first:
+      74: 1783678424579799467
+    second: Rock.002|Cube.005Action
+  - first:
+      74: 7174684584795580183
+    second: Rock.002|RockAction
+  - first:
+      74: 1762466006823265389
+    second: Rock.002|RockAction.002
+  - first:
+      74: -79434648590957033
+    second: Rock.002|Smoke DomainAction.004
+  - first:
+      74: 2625890865203994823
+    second: Rock.002|Sphere.011Action
+  - first:
+      74: 2458121872122567657
+    second: Rock.002|wallAction
+  - first:
+      74: 3272039102612410248
+    second: Rock.003|CameraAction
+  - first:
+      74: -7493148757848289220
+    second: Rock.003|Cube.004Action
+  - first:
+      74: -8123866086077184694
+    second: Rock.003|Cube.005Action
+  - first:
+      74: -2035350248757354853
+    second: Rock.003|RockAction
+  - first:
+      74: 3816105573905589287
+    second: Rock.003|RockAction.002
+  - first:
+      74: -801922800476782592
+    second: Rock.003|Smoke DomainAction.004
+  - first:
+      74: 8810024923362295301
+    second: Rock.003|Sphere.011Action
+  - first:
+      74: -4360483446795587977
+    second: Rock.003|wallAction
+  - first:
+      74: -1304291144106114291
+    second: Cylinder.003|CameraAction
+  - first:
+      74: 6175138752143193451
+    second: Cylinder.003|Cube.004Action
+  - first:
+      74: 6662188039862705210
+    second: Cylinder.003|Cube.005Action
+  - first:
+      74: -33910259071828381
+    second: Cylinder.003|RockAction
+  - first:
+      74: 3996999004308308185
+    second: Cylinder.003|RockAction.002
+  - first:
+      74: -1120029397323406990
+    second: Cylinder.003|Smoke DomainAction.004
+  - first:
+      74: -3657512903582783096
+    second: Cylinder.003|Sphere.011Action
+  - first:
+      74: -2998635580866461043
+    second: Cylinder.003|wallAction
+  - first:
+      74: 1211591223277624217
+    second: Cylinder.004|CameraAction
+  - first:
+      74: -3076000352519854090
+    second: Cylinder.004|Cube.004Action
+  - first:
+      74: -9149754691230650993
+    second: Cylinder.004|Cube.005Action
+  - first:
+      74: -5914138512509458732
+    second: Cylinder.004|RockAction
+  - first:
+      74: 8693279096705042416
+    second: Cylinder.004|RockAction.002
+  - first:
+      74: -148166405101112473
+    second: Cylinder.004|Smoke DomainAction.004
+  - first:
+      74: 7277609789098079230
+    second: Cylinder.004|Sphere.011Action
+  - first:
+      74: -6022374904422290176
+    second: Cylinder.004|wallAction
+  - first:
+      74: -5885809636002872218
+    second: string 3|CameraAction
+  - first:
+      74: 6738322062012035679
+    second: string 3|Cube.004Action
+  - first:
+      74: 7473112615742222199
+    second: string 3|Cube.005Action
+  - first:
+      74: 1966271389510997736
+    second: string 3|RockAction
+  - first:
+      74: -952037129680859974
+    second: string 3|RockAction.002
+  - first:
+      74: 148617894055090402
+    second: string 3|Smoke DomainAction.004
+  - first:
+      74: -2370166137515782271
+    second: string 3|Sphere.011Action
+  - first:
+      74: 498822237832788569
+    second: string 3|wallAction
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
